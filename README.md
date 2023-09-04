@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <hr style="border:2px solid gray"> </hr>
-<img height="180em" src="[https://github-readme-stats.vercel.app/api?username=zahrayousefijamarani&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=zahrayousefijamarani&hide_border=true&&count_private=true&include_all_commits=true&hide_rank=true)" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zahrayousefijamarani&hide_border=true&&count_private=true&include_all_commits=true&hide_rank=true" />
 <hr style="border:2px solid gray"> </hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahrayousefijamarani&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
